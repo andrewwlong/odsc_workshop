@@ -1,2 +1,5 @@
 # ignore the data folder
 data/
+
+# ignore the slides folder
+slides/

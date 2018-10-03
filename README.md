@@ -19,7 +19,7 @@ For this workshop, you will need the following Python packages:
 6. `ipykernel`
 
 ## Easiest way: Anaconda Distribution of Python
-For those with the Anaconda Distribution, I have created a yml environment file that can be used to create a virtual environment with the required information. 
+For those with the Anaconda Distribution, I have created a yml environment file (odsc_west_2018.yml) that can be used to create a virtual environment with the required information. 
 
 1. `$ conda env create -f odsc_west_2018.yml`
 2. `$ activate odsc_west_2018.yml`
