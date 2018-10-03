@@ -3,3 +3,7 @@ data/
 
 # ignore the slides folder
 slides/
+
+# ignore the caches
+.ipynb_checkpoints/
+__pycache__/

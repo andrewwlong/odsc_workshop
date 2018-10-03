@@ -13,6 +13,7 @@ The MIMIC III data set requires requesting access in advance, so please request 
 Once you have access, please visit https://physionet.org/works/MIMICIIIClinicalDatabase/files/ and download 
 - ADMISSIONS.csv.gz
 - NOTEEVENTS.csv.gz
+
 and place these files in a folder labeled 'data' in this repo. 
 
 ## Setting up local Python Environment
@@ -23,6 +24,7 @@ For this workshop, you will need the following Python packages:
 4. `numpy`
 5. `jupyter`
 6. `ipykernel`
+7. `nltk`
 
 ### Easiest way: Anaconda Distribution of Python
 For those with the Anaconda Distribution, I have created a yml environment file (odsc_west_2018.yml) that can be used to create a virtual environment with the required information. 
