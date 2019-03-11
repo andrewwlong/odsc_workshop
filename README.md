@@ -27,15 +27,15 @@ For this workshop, you will need the following Python packages:
 7. `nltk`
 
 ### Easiest way: Anaconda Distribution of Python
-For those with the Anaconda Distribution, I have created a yml environment file (odsc_west_2018.yml) that can be used to create a virtual environment with the required information. 
+For those with the Anaconda Distribution, I have created a yml environment file (environment.yml) that can be used to create a virtual environment with the required information. 
 
-1. `$ conda env create -f odsc_west_2018.yml`
-2. `$ activate odsc_west_2018.yml`
-3. `$ python -m ipykernel install --user --name odsc_west_2018`
+1. `$ conda env create -f environment.yml`
+2. `$ activate odsc_workshop`
+3. `$ python -m ipykernel install --user --name odsc_workshop`
 
 ## Run Jupyter Notebook
 	$ jupyter notebook
 
-The main jupyter notebook we will use in this tutorial is `odsc_2018_mimic.ipynb`. Due to time constraints, we will skip some of the preprocessing and cleaning of the MIMIC files. If you are interested in a notebook that steps through these steps see `odsc_2018_mimic_pre.ipynb`. Note that these same steps were then added to `odsc_2018_utils.py`. 
+The main jupyter notebook we will use in this tutorial is `odsc_2018_mimic.ipynb`. Due to time constraints, we will skip some of the preprocessing and cleaning of the MIMIC files. If you are interested in a notebook that steps through these steps see `odsc_mimic_pre.ipynb`. Note that these same steps were then added to `odsc_utils.py`. 
 
 
