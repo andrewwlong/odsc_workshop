@@ -36,6 +36,6 @@ For those with the Anaconda Distribution, I have created a yml environment file 
 ## Run Jupyter Notebook
 	$ jupyter notebook
 
-The main jupyter notebook we will use in this tutorial is `odsc_2018_mimic.ipynb`. Due to time constraints, we will skip some of the preprocessing and cleaning of the MIMIC files. If you are interested in a notebook that steps through these steps see `odsc_mimic_pre.ipynb`. Note that these same steps were then added to `odsc_utils.py`. 
+The main jupyter notebook we will use in this tutorial is `odsc_mimic.ipynb`. Due to time constraints, we will skip some of the preprocessing and cleaning of the MIMIC files. If you are interested in a notebook that steps through these steps see `odsc_mimic_pre.ipynb`. Note that these same steps were then added to `odsc_utils.py`. 
 
 
